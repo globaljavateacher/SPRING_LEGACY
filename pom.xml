@@ -8,13 +8,10 @@
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 
 	<properties>
-        <!-- Java 버전 -->
         <java.version>21</java.version>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        
-        <!-- Spring 버전 -->
         <spring.version>7.0.3</spring.version>
     </properties>
 
@@ -242,4 +239,5 @@
 			</plugin>
 		</plugins>
 	</build>
+
 </project>
